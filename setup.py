@@ -21,7 +21,7 @@ exe = Executable(
 
 setup(
 	name='Bats - Ticker Information',
-	version='v1.0.0',
+	version='1.0.0',
 	description='This aplication get ticker information from Bats Exchanges (EUA and Europe), updating information every 5 seconds.',
 	author='Rui Alves Costa',
 	author_email='rui.alves.costa@finantech.pt',
